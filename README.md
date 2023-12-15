@@ -1,51 +1,11 @@
 # Chess-AI-pygame-Minimax-
-## _Using the minimax algorithm (ALPHA BETA PRUNING)_ 
+## college project by sathishkumar
 
 
-## Check out my youtube channel for more: [AUCTUX](https://www.youtube.com/c/Auctux)
  chess game and chess AI using the Minimax algorithm.
 
-#### this code need a lot of optimization
 
-## Features
 
-- Basic chess moves
-- Castle move
-- En passant move
-- Check and check mate
-- tie Draw,
-
-# Bugs & issues
-- No tie by move repetition
-- the chess ai is slow if the depth is more than 4
-- Also i haven't implemented the two player server. will probably do it in the future
-- ...
-
-> REQUIREMENTS
-```
-    pygame -> pip install pygame
-```
-
-## COMMAND
-
-`ESC` -> to quit the game and close the window
-`UP ARROW` & `DOWN ARROW` -> to change the game theme
-
-## VISUALISATION OF PIECE BONUS MAPS
-
-to visualize the piece bonus map , you just have to run the file visualizeMaps.py
-```
-    run : python visualizeMaps.py
-    Then to change the piece maps use the LEFT and RIGHT arrow keys 
-```
-
-#### EXAMPLES
->King
-![Screenshot (381)](https://user-images.githubusercontent.com/48150537/193106186-c7be1520-d318-412e-9f97-28c3a9ec5985.png)
-
-![Screenshot (380)](https://user-images.githubusercontent.com/48150537/193106197-70af6b9a-b2aa-4194-82f2-7efe89baa28e.png)
-
-![Screenshot (382)](https://user-images.githubusercontent.com/48150537/193106161-d15da808-0564-4fbc-b6c3-dd3c8cf240b4.png)
 
 
 ## CHESS THEMES
